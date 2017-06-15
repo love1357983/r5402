@@ -13,3 +13,9 @@
 * [Seting adb Path](Seting adb Path.md)
 
 * [adb command](adb command.md)
+
+## python 
+
+
+
+## Flask(python)
