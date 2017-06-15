@@ -16,7 +16,7 @@ usage: git [--version] [--help] [-C <path>] [-c name=value]
 ### These are common Git commands used in various situations:
 
 
-```bash
+```
 
 # 啟動一個工作區域
 
