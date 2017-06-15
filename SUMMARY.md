@@ -11,7 +11,7 @@
 
 ## Fish
 
-* [Fish install](fish install.md)
+* [Fish install](Fish/fish install.md)
 
 ## [Google adb](Google/README.md)
 
