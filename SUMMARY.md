@@ -8,6 +8,6 @@
 
 * [Defining Methods](methods.md)
 
-## Methods
+## Google adb
 
-* [Defining Methods](methods.md)
+* [Seting ](methods.md)
