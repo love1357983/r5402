@@ -18,3 +18,18 @@ That said, if you already use Homebrew (which I recommend) and have configured y
 ```
 
 If you would prefer to install the latest bleeding-edge version of Fish via Homebrew, run the following instead of the above command:
+```
+➤ brew install --HEAD fish
+```
+
+/etc/shells 增加 fish shell  plugin 相關參數
+
+```
+➤ echo "/usr/local/bin/fish" | sudo tee -a /etc/shells
+``
+
+設定 fish 為終端機預設 shell 
+
+```
+➤ chsh -s /usr/local/bin/fish
+```
