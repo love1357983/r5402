@@ -11,7 +11,10 @@
 [參考網址](https://hackercodex.com/guide/install-fish-shell-mac-ubuntu/)
 
 使用brew 安裝 fish shell plugin 
+
+That said, if you already use Homebrew (which I recommend) and have configured your environment as noted in the macOS Setup Guide, then you can install Fish as you would any other package:
 ```
 ➤ brew install fish
 ```
 
+If you would prefer to install the latest bleeding-edge version of Fish via Homebrew, run the following instead of the above command:
