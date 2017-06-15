@@ -7,6 +7,10 @@
 
 ## Git
 
+* [Fish install](Fish/fish install.md)
+
+
+
 * [Git教學](Git/Git.md)
 
 ## Fish
