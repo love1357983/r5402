@@ -7,7 +7,7 @@
 
 ## Git
 
-* [Git教學](Git.md)
+* [Git教學](Git/Git.md)
 
 ## Fish
 
