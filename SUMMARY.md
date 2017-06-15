@@ -15,7 +15,7 @@
 
 ## [Google adb](Google/README.md)
 
-* [Seting adb Path](Seting adb Path.md)
+* [Seting adb Path](Google/Seting adb Path.md)
 
 * [adb command](Google/adb command.md)
 
