@@ -24,5 +24,3 @@ export PATH=$PATH:/Users/kuo/Library/Android/sdk/platform-tools
 ```bash
 ➤ source ~/.bash_profile
 ```
-
- 這樣作完後就可以使用 adb command-line
