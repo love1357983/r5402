@@ -13,7 +13,7 @@
 
 * [Fish install](fish install.md)
 
-## Google adb
+## [Google adb](Google/README.md)
 
 * [Seting adb Path](Seting adb Path.md)
 
