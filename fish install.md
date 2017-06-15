@@ -28,14 +28,44 @@ If you would prefer to install the latest bleeding-edge version of Fish via Home
 ➤ echo "/usr/local/bin/fish" | sudo tee -a /etc/shells
 ```
 
-設定 fish 為終端機預設 shell 
+### 設定 fish 為終端機預設 shell 
 
 ```
 ➤ chsh -s /usr/local/bin/fish
 ```
 
-設定終端機版面樣式
+### 設定終端機版面樣式
 
 ```
 ➤ fish_config
+```
+
+### 設定環境變數(Path)
+
+```
+➤ touch ~/.config/fish/config.fish
+```
+
+```
+➤ vim ~/.config/fish/config.fish
+```
+
+```
+set -x PERL5LIB /home/iaco/workspace/perl:/home/iaco/devtools
+set -g -x PATH /usr/local/bin $PATH
+
+
+set --export ANDROID $HOME
+set --export ANDROID_HOME $HOME/Library/Android/sdk
+set -gx PATH $HOME/Library/Android/sdk/platform-tools $PATH
+
+
+
+# start X at login
+if status --is-login
+    if test -z "$DISPLAY" -a "$XDG_VTNR" -eq "1"
+        exec startx
+    end
+end
+
 ```
