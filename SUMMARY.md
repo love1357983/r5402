@@ -4,9 +4,9 @@
 
     * [My Awesome API](README.md)
 
-## Methods
+## Git
 
-    * [Defining Methods](methods.md)
+    * [Git教學](Git.md)
 
 ## Google adb
 
