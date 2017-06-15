@@ -1,7 +1,6 @@
-# Google Android Debug Bridge(adb) Command-Line
+# Google Android Debug Bridge\(adb\) Command-Line
 
 [參考文獻](https://developer.android.com/studio/command-line/adb.html)
-
 
 ```
 ➤ adb                                                                                                                              16:18:50
@@ -150,3 +149,6 @@ environment variables:
  $ANDROID_SERIAL          serial number to connect to (see -s)
  $ANDROID_LOG_TAGS        tags to be used by logcat (see logcat --help)
 ```
+
+
+
