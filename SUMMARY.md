@@ -9,9 +9,9 @@
 
 * [Git教學](Git.md)
 
-## fish
+## Fish
 
-* [fish install](fish install.md)
+* [Fish install](fish install.md)
 
 ## Google adb
 
