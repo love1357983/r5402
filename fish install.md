@@ -26,7 +26,7 @@ If you would prefer to install the latest bleeding-edge version of Fish via Home
 
 ```
 ➤ echo "/usr/local/bin/fish" | sudo tee -a /etc/shells
-``
+```
 
 設定 fish 為終端機預設 shell 
 
