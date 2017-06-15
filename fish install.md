@@ -33,3 +33,9 @@ If you would prefer to install the latest bleeding-edge version of Fish via Home
 ```
 ➤ chsh -s /usr/local/bin/fish
 ```
+
+設定終端機版面樣式
+
+```
+➤ fish_config
+```
