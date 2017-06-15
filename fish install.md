@@ -10,6 +10,7 @@
 
 [參考網址](https://hackercodex.com/guide/install-fish-shell-mac-ubuntu/)
 
+使用brew 安裝 fish shell plugin 
 ```
 ➤ brew install fish
 ```
