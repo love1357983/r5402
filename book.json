@@ -12,11 +12,6 @@
                     "lang": "go",
                     "name": "Go"
                 }
-                {
-                    "lang": "bash",
-                    "name": "Bash"
-                }
-
             ]
         }
     }
