@@ -10,4 +10,4 @@
 
 ## Google adb
 
-    * [Seting ](methods.md)
+    * [Seting adb Path](Seting adb Path.md)
