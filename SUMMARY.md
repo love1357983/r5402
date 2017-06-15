@@ -10,7 +10,7 @@ f# Summary
 
 ## fish
 
-* [Git教學](Git.md)
+* [fish install](fish install.md)
 
 ## Google adb
 
