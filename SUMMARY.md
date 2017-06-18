@@ -16,6 +16,7 @@
 
 * [Seting adb Path](Google/Seting adb Path.md)
 * [adb command](Google/adb command.md)
+* [adb command](Google/adb am command.md)
 
 ## python
 
