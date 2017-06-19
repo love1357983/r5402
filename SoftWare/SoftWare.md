@@ -7,7 +7,8 @@
 
 ## Android Studio
 
-* #### Android Studio adb 環境變數設定
+ * #### Android Studio adb 安裝包下載
+
 > [Android Studio and Android Sdk for Windows(64-bit)](https://dl.google.com/dl/android/studio/install/2.3.3.0/android-studio-bundle-162.4069837-windows.exe)
 
 > [Android Studio and Android Sdk for Windows(32-bit)](https://dl.google.com/dl/android/studio/ide-zips/2.3.3.0/android-studio-ide-162.4069837-windows32.zip)
