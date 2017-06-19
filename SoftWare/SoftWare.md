@@ -13,6 +13,8 @@
 
 * [Android Studio and Android Sdk for Mac](https://dl.google.com/dl/android/studio/install/2.3.3.0/android-studio-ide-162.4069837-mac.dmg)
 
+* #### Android Studio adb 環境變數設定
+
 ## Arduino
 
 * [Version 1.8.3 Arduino 綠色版](http://140.138.147.37/SoftWare/arduino-1.8.3-windows.exe)
