@@ -17,6 +17,10 @@
 
 * #### Android Studio adb 環境變數設定
 
+> [Windows 教學]()
+
+> [Mac 教學]()
+
 ## Arduino
 
 * [Version 1.8.3 Arduino 綠色版](http://140.138.147.37/SoftWare/arduino-1.8.3-windows.exe)
