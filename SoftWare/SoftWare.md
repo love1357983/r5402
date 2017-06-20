@@ -17,7 +17,7 @@
 
 * #### Android Studio adb 環境變數設定
 
-> [Windows 教學]()
+> [Windows 教學](SoftWare/windowspath.md)
 
   ```
   > setx ANDROID_HOME "%USERPROFILE%\AppData\Local\Android\Sdk"
