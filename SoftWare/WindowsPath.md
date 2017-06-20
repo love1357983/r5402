@@ -9,5 +9,5 @@
 這是 Android Studio 預設安裝目錄，如果有更換過安裝的目錄將需要修改此目錄
 
 ```
-➤ setx ANDROID_HOME "<your android sdk path>"
+➤ setx ANDROID_HOME "<insert your android sdk path>"
 ```
