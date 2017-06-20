@@ -20,7 +20,8 @@
 > [Windows 教學]()
 
   ```
-  > setx ANDROID_HOME "C:\Users\%USERNAME%\AppData\Local\Android\Sdk"
+  > setx ANDROID_HOME "%USERPROFILE%\AppData\Local\Android\Sdk"
+  > setx Path "%Path%;%ANDROID_HOME%\platform-tools"
   ```
 
 > [Mac 教學]()
