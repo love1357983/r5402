@@ -19,6 +19,10 @@
 
 > [Windows 教學]()
 
+  ```
+  > setx ANDROID_HOME "C:\Users\%USERNAME%\AppData\Local\Android\Sdk"
+  ```
+
 > [Mac 教學]()
 
 ## Arduino
