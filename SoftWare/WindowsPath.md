@@ -11,3 +11,9 @@
 ```
 ➤ setx ANDROID_HOME "<insert your android sdk path>"
 ```
+
+接下來我們要在 path 環境變數中加入 adb 指令的目錄
+
+```
+➤ setx path "%path%;%ANDROID_HOME%\platform-tools"
+```
