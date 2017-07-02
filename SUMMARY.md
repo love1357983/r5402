@@ -22,7 +22,7 @@
 
 ## Flask\(python\)
 
-* [Install Flask]
+* [Install Flask](Install Flask.md)
 
 ## 所需要的程式
 
