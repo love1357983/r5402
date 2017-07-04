@@ -57,7 +57,7 @@ set -g -x PATH /usr/local/bin $PATH
 
 set --export ANDROID $HOME
 set --export ANDROID_HOME $HOME/Library/Android/sdk
-set -gx PATH $HOME/Library/Android/sdk/platform-tools $PATH
+set -gx PATH $ANDROID_HOME/platform-tools $PATH
 
 
 
