@@ -54,8 +54,6 @@ If you would prefer to install the latest bleeding-edge version of Fish via Home
 set -x PERL5LIB /home/iaco/workspace/perl:/home/iaco/devtools
 set -g -x PATH /usr/local/bin $PATH
 
-
-set --export ANDROID $HOME
 set --export ANDROID_HOME $HOME/Library/Android/sdk
 set -gx PATH $ANDROID_HOME/platform-tools $PATH
 
