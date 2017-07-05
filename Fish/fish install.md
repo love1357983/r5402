@@ -57,8 +57,6 @@ set -g -x PATH /usr/local/bin $PATH
 set --export ANDROID_HOME $HOME/Library/Android/sdk
 set -gx PATH $ANDROID_HOME/platform-tools $PATH
 
-
-
 # start X at login
 if status --is-login
     if test -z "$DISPLAY" -a "$XDG_VTNR" -eq "1"
