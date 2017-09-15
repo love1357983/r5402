@@ -23,7 +23,7 @@
   > setx path "%path%;%ANDROID_HOME%\platform-tools"
 ```
 
-> [Mac 教學]()
+> [Mac 教學](https://developer.android.com/studio/install.html)
 
 ## Arduino
 
